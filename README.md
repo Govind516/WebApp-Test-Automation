@@ -65,6 +65,8 @@ This project contains automated tests for the WebApplication project using Selen
     ```sh
    cd WebAppTests
    dotnet test
+    
+![image](https://github.com/Govind516/WebApp-Test-Automation/assets/102366719/6eb3986e-82a7-491b-b492-3713c3e24650)
 
 ## Tests Included
 
