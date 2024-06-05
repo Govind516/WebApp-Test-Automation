@@ -1,10 +1,8 @@
-# WebAppTests
+# WebApplication Test Automation
 
 This project contains automated tests for the WebApplication project using Selenium WebDriver and NUnit.
 
 ## Table of Contents
-
-- [Portfolio Website](#portfolio-website)
   - [Preview](#preview)
   - [Technologies Used](#technologies-used)
   - [Setup](#setup)
