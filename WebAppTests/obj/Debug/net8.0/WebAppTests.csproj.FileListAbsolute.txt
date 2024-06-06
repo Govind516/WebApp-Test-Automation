@@ -101,3 +101,4 @@ E:\WebApplication\WebAppTests\obj\Debug\net8.0\refint\WebAppTests.dll
 E:\WebApplication\WebAppTests\obj\Debug\net8.0\WebAppTests.pdb
 E:\WebApplication\WebAppTests\obj\Debug\net8.0\WebAppTests.genruntimeconfig.cache
 E:\WebApplication\WebAppTests\obj\Debug\net8.0\ref\WebAppTests.dll
+E:\WebApplication\WebAppTests\obj\Debug\net8.0\WebAppTests.sourcelink.json
