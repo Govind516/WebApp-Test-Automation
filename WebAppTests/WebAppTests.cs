@@ -19,6 +19,7 @@ namespace WebAppTests
             _driver.Manage().Window.Maximize();
         }
 
+        // Test 1 : Check WebPage Title
         [Test]
         public void VerifyWebPageLoadsSuccessfully()
         {
@@ -26,6 +27,7 @@ namespace WebAppTests
             ClassicAssert.AreEqual("Home Page - WebApplication", _driver.Title);
         }
 
+        // Test 2 : Form Submission when all fields are filled 
         [Test]
         public void SubmitForm_EntersAllFields()
         {
@@ -42,6 +44,7 @@ namespace WebAppTests
             VerifyWelcomeMessage("Narendra Modi");
         }
 
+        // Test 3 : Form Submission when optional fields are empty
         [Test]
         public void SubmitForm_WithoutOptionalFields()
         {
@@ -71,6 +74,7 @@ namespace WebAppTests
 
         public void Dispose()
         {
+            // Clean up resources
             _driver.Quit();
             _driver.Dispose();
         }
