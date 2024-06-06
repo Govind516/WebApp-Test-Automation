@@ -12,10 +12,12 @@ This project contains automated tests for the WebApplication project using Selen
 
 ## Preview
 
+https://github.com/Govind516/WebApp-Test-Automation/assets/102366719/4c054d7a-3902-4f82-b8d2-ac2f3c2f8762
 
 ## Technologies Used
 
 - C#
+- ASP .NET Framework
 - NUnit
 - Selenium WebDriver
 
