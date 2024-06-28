@@ -52,6 +52,7 @@ https://github.com/Govind516/WebApp-Test-Automation/assets/102366719/4c054d7a-39
    dotnet add package Selenium.WebDriver
    dotnet add package Selenium.WebDriver.ChromeDriver
    dotnet add package DotNetSeleniumExtras.WaitHelpers
+   dotnet add package Selenium.Support
 
 ## Usage
 
